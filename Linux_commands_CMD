@@ -1,0 +1,7 @@
+pwd - present working Directory
+cd - change directory
+cd desktop
+cd ..
+ls - list Directory
+ls -a hidden files
+mkdir testing - make directory
